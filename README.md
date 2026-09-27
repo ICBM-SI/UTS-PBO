@@ -1,8 +1,8 @@
-# TUGAS INDIVIDU: PEMROGRAMAN BERORIENTASI OBJEK (JAVA)
-## Nama: Aditya Dwinugraha Yusniandra / 2509116114
+# TUGAS INDIVIDU UTS: PEMROGRAMAN BERORIENTASI OBJEK (JAVA)
+## Nama: Aditya Dwinugraha Yusniandra / 2509116114 / Kelas B
 
 ## Deskripsi Program
-Program berikut merupakan contoh program penyewaan baju profesi sederhana yang menerapkan (Command Line Interface) menggunakan bahasa pemrograman Java dengan menerapkan prinsip Pemrograman Berorientasi Objek.
+Program berikut merupakan contoh program penyewaan baju profesi sederhana yang menerapkan (Command Line Interface) menggunakan bahasa pemrograman Java dengan menerapkan prinsip Pemrograman Berorientasi Objek. Program ini dibuat sebagai demonstrasi bagaimana jika sebuah outlet penyewaan baju/seragam profesi mengimplementasikan sebuah sistem penyewaan yang user-friendly.
 
 ## Alur Program
 ### 1. Menu Utama
